@@ -748,24 +748,9 @@
      <property name="container" value="[Usable(Globals.player, 'arrow', 4), Potion(Globals.player, 'heal')]"/>
     </properties>
    </object>
-   <object id="1417" gid="114" x="1792" y="1568" width="16" height="16">
-    <properties>
-     <property name="container" value="[Bow(Globals.player, Globals.enemies), Usable(Globals.player, 'arrow', 2), Potion(Globals.player, 'heal')]"/>
-    </properties>
-   </object>
-   <object id="1421" gid="114" x="1360" y="1568" width="16" height="16">
-    <properties>
-     <property name="container" value="[Bow(Globals.player, Globals.enemies), Usable(Globals.player, 'arrow', 7), Usable(Globals.player, 'arrow', 7), Potion(Globals.player, 'heal')]"/>
-    </properties>
-   </object>
    <object id="1422" gid="114" x="1376" y="1568" width="16" height="16">
     <properties>
-     <property name="container" value="[Potion(Globals.player, 'heal'), Sword(Globals.player, Globals.enemies)]"/>
-    </properties>
-   </object>
-   <object id="1424" gid="114" x="1424" y="1568" width="16" height="16">
-    <properties>
-     <property name="container" value="[Gun(Globals.player, Globals.enemies)]"/>
+     <property name="container" value="[Potion(Globals.player, 'heal')]"/>
     </properties>
    </object>
   </objectgroup>

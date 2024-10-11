@@ -18,7 +18,7 @@ CAMERA_SPEED = 4
 HOTBAR_SLOT_ACTIVE = pg.image.load('Assets/interface/hotbar_slot_active.png')
 HOTBAR_SLOT_INACTIVE = pg.image.load('Assets/interface/hotbar_slot_inactive.png')
 INVALID_TEXTURE = pg.image.load('Assets/interface/invalid_texture.png') 
-PLAYER_START_POS = (88*TILE_SIZE*TILE_SCALE, 96*TILE_SIZE*TILE_SCALE)
+PLAYER_START_POS = (5*TILE_SIZE*TILE_SCALE, 7*TILE_SIZE*TILE_SCALE)
 
 font = pg.font.Font(None, 36)
 
