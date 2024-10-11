@@ -1,0 +1,5 @@
+0 = empty with slot padding
+1 = inventory slot with slot padding
+2 = hotbar slot with slot padding
+n = new row with slot padding
+h = new row with half slot padding

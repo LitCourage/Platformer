@@ -1,0 +1,108 @@
+{
+    "activeFile": "maps/map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 3
+        },
+        "C:/Users/123/Downloads/Platformer Big copy/Resourses/Images/Caves 1/tiles.tsx": {
+            "scaleInDock": 3
+        },
+        "C:/Users/123/Downloads/Platformer Big copy/Resourses/Images/Caves 2/tiles.tsx": {
+            "scaleInDock": 5.5
+        },
+        "C:/Users/123/Downloads/Platformer Big copy/Resourses/Images/Caves 2/tiles_flipped.tsx": {
+            "scaleInDock": 5.5
+        },
+        "C:/Users/123/Downloads/Platformer Big copy/Resourses/Maps/Map.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 120.625,
+                "y": 86.25
+            }
+        },
+        "E:/DESKTOP FILES/lessons/проекты/platformer/maps/level_1.tmx": {
+            "scale": 2.35125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.2551834130782,
+                "y": 159.06432748538012
+            }
+        },
+        "E:/DESKTOP FILES/lessons/проекты/platformer/maps/level_1.tmx#Green Portal Sprite Sheet": {
+            "scaleInDock": 1
+        },
+        "E:/DESKTOP FILES/lessons/проекты/platformer/maps/tileset/Assets.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiles/Tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "Tiles/Tiles_shadowed.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "map.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1457.575757575758,
+                "y": 427.27272727272725
+            }
+        },
+        "map.tmx#Tiles": {
+            "scaleInDock": 1
+        },
+        "maps/map.tmx": {
+            "expandedGroupLayers": [
+                15
+            ],
+            "expandedObjectLayers": [
+                18,
+                21,
+                23,
+                20,
+                15,
+                22
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1845.25,
+                "y": 1578.5
+            }
+        },
+        "maps/map.tmx#Tiles": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "E:/DESKTOP FILES/lessons/проекты/PLATFORMER2/Assets/Legacy Adventure Pack - RUINS/Assets",
+    "openFiles": [
+        "maps/map.tmx"
+    ],
+    "project": "",
+    "property.type": "float",
+    "recentFiles": [
+        "maps/map.tmx",
+        "C:/Users/123/Downloads/Platformer Big copy/Resourses/Maps/Map.tmx",
+        "Tiles/Tiles_shadowed.tsx",
+        "Tiles/Tiles.tsx",
+        "E:/DESKTOP FILES/lessons/проекты/platformer/maps/level_1.tmx",
+        "map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 1
+}
